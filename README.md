@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Learning Backened Development**
 
-- 📫 How to reach me **thackerharshil061@gmai.com**
+- 📫 How to reach me **thackerharshil061@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
